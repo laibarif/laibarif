@@ -8,8 +8,8 @@ I enjoy creating web applications that work well and feel intuitive, using React
 
 What I Do 
   * Full-Stack Web Development – I build applications that are easy to use and work smoothly on different devices. 
-  🔹 Database Management – I organize and structure data so it’s efficient and easy to access. 
-  🔹 API Integration & Debugging – I connect different systems, fix issues, and make sure everything runs without problems. 
+  * Database Management – I organize and structure data so it’s efficient and easy to access. 
+  * API Integration & Debugging – I connect different systems, fix issues, and make sure everything runs without problems. 
 
 I like solving real problems with code and always look for ways to improve what I build.
 
