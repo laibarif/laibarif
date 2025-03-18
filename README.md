@@ -35,4 +35,3 @@ I like solving real problems with code and always look for ways to improve what 
 
 <a href="http://www.github.com/laibarif"><img src="https://github-readme-stats.vercel.app/api?username=laibarif&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=000000&icon_color=ef4444&bg_color=ffffff&hide_border=true&show_icons=true" alt="laibarif's GitHub stats" /></a>
 
-<a href="http://www.github.com/laibarif"><img src="https://github-readme-streak-stats.herokuapp.com/?user=laibarif&stroke=000000&background=ffffff&ring=f97316&fire=f97316&currStreakNum=000000&currStreakLabel=f97316&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a>
